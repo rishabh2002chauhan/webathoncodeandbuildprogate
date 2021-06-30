@@ -14,9 +14,9 @@ body{
 }
 img{
     width: 250px;
-    height: 400px;
+    height: 500px;
     margin-left: 100px;
-    border-radius: 50%;
+    border-radius: 40%;
 }
 header {
     height: 50px;
